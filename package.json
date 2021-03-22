@@ -1,0 +1,16 @@
+{
+  "name": "RD_School_JS",
+  "version": "1.0.0",
+  "main": "spec.js",
+  "dependencies": {
+    "protractor": "^5.1.0"
+  },
+  "scripts": {
+    "prestart-webdriver": "webdriver-manager update",
+    "start-webdriver": "webdriver-manager start",
+    "protractor": "protractor conf.js"
+  },
+  "author": "Laura Melkonyan",
+  "license": "ISC",
+  "description": "RD School demo"
+}
